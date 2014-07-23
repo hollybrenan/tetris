@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body {
+  background-color: #FFD801;
+}
+
+.playingField {
+  height: 600px;
+  width: 400px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
